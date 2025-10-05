@@ -4,12 +4,12 @@
 
 ### A Malaysian student pursuing her 4th-year studies in France 🇫🇷, passionate about web development and mobile applications 
 </h1>
-- 💼 I'm currently an intern at Cognitive Design Systems, an engineering 3D company, as a software developer
-- 🐱 Feel free to connect with me, I dont bite!
+- 💼 I’m currently a Software Developer Intern at Cognitive Design Systems, an engineering 3D company
+- 🐱 Feel free to connect with me, I don't bite!
 
 <br>
 <div align="center">
-  <a href="nhafisha03@gmail.com">
+  <a href="mailto:nhafisha03@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nur-hafisha-sharifudin/" target="_blank">
@@ -49,16 +49,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{nurhafisha}/{nurhafisha}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{nurhafisha}/{nurhafisha}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{nurhafisha}/{nurhafisha}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ### Thank you for your time , hope to see you again !
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{nurhafisha}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/nurhafisha/count.svg" alt="Visitor's Count" />
 </div>
 
 <hr>
