@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=000e1c&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
 </h1>
 
 ### A Malaysian student pursuing her 4th-year studies in France 🇫🇷, passionate about web development and mobile applications 
 </h1>
-- 💼 I'm currently intern at Cognitive Design Systems an engineering 3D company as a software developper
-- 🐱 Feel free to connect with me , i dont bite !
+- 💼 I'm currently an intern at Cognitive Design Systems, an engineering 3D company, as a software developer
+- 🐱 Feel free to connect with me, I dont bite!
 
 <br>
 <div align="center">
@@ -49,16 +49,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{nurhafisha}/{nurhafisha}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{nurhafisha}/{nurhafisha}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{nurhafisha}/{nurhafisha}/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ### Thank you for your time , hope to see you again !
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{nurhafisha}/count.svg" alt="Visitor's Count" />
 </div>
 
 <hr>
