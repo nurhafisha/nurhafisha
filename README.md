@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,C,C++,ts,nodejs,react,nextjs,mongodb,postgres,MySQL" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,ts,nodejs,react,nextjs,mongodb,postgres,MySQL" />
   <img src="https://skillicons.dev/icons?i=html,css,react,angular,js,vue,django,symfony,git,postman,figma" />
 </p>
 
@@ -48,12 +48,14 @@
 ## 🐍 My Contributions
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nurhafisha/nurhafisha/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+<hr>
 
 ### Thank you for your time , hope to see you again !
 <div align="center"> 
