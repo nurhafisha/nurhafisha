@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=60&color=000e1c&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=80&color=000e1c&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
 
 ### A Malaysian student pursuing her 4th-year studies in France 🇫🇷, passionate about web development and mobile applications 
 </h1>
-- 💼 I’m currently a Software Developer Intern at Cognitive Design Systems, an engineering 3D company
+
+- 💼 I’m currently a Software Developer Intern at Cognitive Design Systems, an engineering 3D company 
 - 🐱 Feel free to connect with me, I don't bite!
 
 <br>
@@ -39,6 +40,7 @@
 
 <hr>
 
+
 ## 🐍 My Contributions
 
 <div align="center">
@@ -51,10 +53,12 @@
 
 <hr>
 
+
 ### Thank you for your time, hope to see you again!
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/nurhafisha/count.svg" />
+  <a href="https://hits.sh/github.com/nurhafisha">
+  <img alt="Hits" src="https://hits.sh/github.com/nurhafisha.svg?style=for-the-badge&label=Visitors&color=blue"/>
+</a>
 </div>
 
 <hr>
