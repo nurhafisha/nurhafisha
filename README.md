@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=000e1c&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
-</h1>
 
 ### A Malaysian student pursuing her 4th-year studies in France 🇫🇷, passionate about web development and mobile applications 
 </h1>
@@ -27,11 +26,6 @@
 </p>
 
 <hr>
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
 
 ## ⚡️ Stats
 
