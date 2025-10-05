@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=000e1c&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=60&color=000e1c&duration=4000&lines=Hi+There!+👋;+I'm+nur+hafisha!;" />
 
 ### A Malaysian student pursuing her 4th-year studies in France 🇫🇷, passionate about web development and mobile applications 
 </h1>
@@ -51,10 +51,10 @@
 
 <hr>
 
-### Thank you for your time , hope to see you again !
+### Thank you for your time, hope to see you again!
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/nurhafisha/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/nurhafisha/count.svg" />
 </div>
 
 <hr>
