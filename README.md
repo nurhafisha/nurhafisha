@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=ress+Start+2P&size=48&center=true&vCenter=true&width=700&height=80&color=000e1c&duration=4000&lines=Hi+nice+to+meet+you+👋;+I'm+nur+hafisha!;" />
 
-### A Malaysian student pursuing her 4th-year studies in France 🇫🇷, passionate about web development and mobile applications 
+### A Malaysian student pursuing her 5th-year studies in France 🇫🇷, passionate about web development and mobile applications 
 </h1>
 
 - 💼 I’m currently a Software Developer Intern at Cognitive Design Systems, an engineering 3D company 
